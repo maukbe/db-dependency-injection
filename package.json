@@ -1,0 +1,19 @@
+{
+  "name": "database_injection",
+  "version": "1.0.0",
+  "description": "Example of dependency injection for node with a database",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/maukbe/db-dependency-injection.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maukbe/db-dependency-injection/issues"
+  },
+  "homepage": "https://github.com/maukbe/db-dependency-injection#readme"
+}
